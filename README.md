@@ -29,3 +29,4 @@ Pepito is the demonstrator of how the personal data of the user in need can be s
 * Make Pepito store on IPFS its table of Disguise addresses
 * Make each PepitoDisguise store its data on Textile or OrbitDB
 * Implement the frontend dialogue to change the features of a PepitoDisguise and store it back
+* Use the Celo Valora mobile wallet
