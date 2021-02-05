@@ -1,7 +1,7 @@
 # ETH Denver 2021
 Update of 2021-02-05
 * confirmed members
-  * Vu Tien Khang ("Vutien"): _Space System Architect, 45 years of experience (yes :-), Luxembourg React, Solidity, Web3, Nodejs + some more_
+  * Vu Tien Khang ("Vutien"): _Space System Architect, 45 years of experience (yes :-), Luxembourg React, Solidity, Web3, Nodejs + Earth Observation & Telecoms_
   * Duke Silver ("Rajan"): _I am a Sr. Java Developer working in Chicago currently. I can code all Java Stack and all the popular DB's. I started learning Ethereum stack 6 months back and got certified. I can work with Solidity, IPFS, Truffle, Infura and all that core ethereum stuff._
 * create a team in ETH Denver devfolio - **done** the dashboard is [https://devfolio.co/ethdenver2021/dashboard](https://devfolio.co/ethdenver2021/dashboard)
 * initialise a github common repository - **done**
