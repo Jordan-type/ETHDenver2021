@@ -17,8 +17,7 @@ In final the win-win situation is
 
 The amount of "Cash Voucher Assistance" (CVA) totalled $5.6bn in 2019, doubling 2016 levels and accounting for 17.9% of total humanitarian assistance. Financial services targeting the same population is 10 times this amount.
 
-## State of the project submitted End January 2021
-See details in last section below: "ConsenSys Specifications of the dApp"
+## State of the project at the beginning of the ETH Denver 2021 Buidlathon
 * [demo video: https://youtu.be/4ASGvdN0B48](https://youtu.be/4ASGvdN0B48) 
 * backend working, still continuously improved
   * truffle project
@@ -59,7 +58,6 @@ We can also derive Pepito into a true humanitarian organisation management syste
 .
 ├── 20201029\ Machu\ Picchu\ Tech\ Stack.png
 ├── 20201128\ Avatars.jpeg
-├── ConsenSys\ Academy?\200\231s\ 2020\ Blockchain\ Developer\ Bootcamp\ Final\ Project\ Spec.docx
 ├── LICENSE
 ├── Pepito (the actual Bootcamp Final Project)
 │   ├── design_pattern_decisions.md
@@ -142,32 +140,4 @@ Big thanks to the following resources:
 * [https://avataaars.com/](https://avataaars.com): the initial creator of the images
 * [https://github.com/fangpenlin/avataaars](https://github.com/fangpenlin/avataaars): the creator of the React avataar random generator
 * [https://github.com/keep-network/random-avatar](https://github.com/keep-network/random-avatar): using avataar to illustrate its own blockchain secure random number generator 
-
-
-# ConsenSys Specifications of the dApp
-## Smart contract
-* (**done**) Be a Truffle project
-* Have a smart contract(s) commented according to the specs which:
-  + (**done**) Have a circuit breaker design pattern and at least one other design pattern in Module 10 Lesson 1
-  + (**done**) Have security features to protect against at least two attack vectors outlined in Module 9 Lesson 3
-  + (**done**) Use a library (`SafeMath.sol`, `EthPM`, etc.) or extend another contract
-* (**done**) 5 tests for each 2 smart contracts, 3 tests not working, being investigated
-* (not yet) Smart contract should be deployed to a testnet
-
-## Frontend
-
-The front end is liberally inspired from this project [(https://github.com/keep-network/random-avatar)](https://github.com/keep-network/random-avatar) and this project [(https://github.com/fangpenlin/avataaars)](https://github.com/fangpenlin/avataaars)
-* (**done**) Have a development server to serve the frontend interaction of the application locally (You should be able to visit a local URL and interact with the application)
-  +	(**done**) Frontend should work with `web3.js` / `ethers.js`, Infura and MetaMask to: 
-  +	(**done**) Recognize and display current Metamask account
-  +	(**done**) Sign transactions that change a deployed contract’s state using MetaMask
-*	(**done**) Reflect the successful state change in the UI (currently the contract addresses are displayed)
-
-## Git
-*	(**done**) Be uploaded to its own Github repository
-*	(**done**) Have a README doc describing the overview of your project, pointing out directory structure and how to build and run your project locally  
-*	(**done**) AND A document called design_pattern_decisions.md explaining which design patterns you used
-*	(**done**) AND A document called avoiding_common_attacks.md explaining security steps you took what measures you took to ensure your contracts are not susceptible to common attacks
-*	(**done**) A screen recording walking through your Dapp.
-*	(TODO) AND A document called deployed_addresses.txt that describes where your contracts live (testnet AND address).
 

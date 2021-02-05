@@ -2,7 +2,7 @@
 Machu Picchu entry for ETHDenver 2021
 ## Contributing, from members of the Buidlathon team
 * Fork the repository to your own github, or _make a branch directly from here?_
-* Clone your repo to your local workstation and work from there
+* Clone your repo to your local workstation and work from there; the main folder is `<your folder>/ETHDenver2021/Pepito`
 * Push to your repo
 * When your version is ready, submit a pull request for _Machu Picchu_.
 ## Contact
@@ -23,4 +23,4 @@ Pepito is the demonstrator of how the personal data of the user in need can be s
 * Port Pepito to Celo
 * Make Pepito store on IPFS its table of Disguise addresses
 * Make each PepitoDisguise store its data on Textile or OrbitDB
-* Implement the dialogue to change the features of a PepitoDisguise
+* Implement the frontend dialogue to change the features of a PepitoDisguise and store it back
