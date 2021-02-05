@@ -3,11 +3,14 @@ Update of 2021-02-05
 * confirmed members
   * Vu Tien Khang ("Vutien"): _Space System Architect, 45 years of experience (yes :-), Luxembourg React, Solidity, Web3, Nodejs + some more_
   * Duke Silver ("Rajan"): _I am a Sr. Java Developer working in Chicago currently. I can code all Java Stack and all the popular DB's. I started learning Ethereum stack 6 months back and got certified. I can work with Solidity, IPFS, Truffle, Infura and all that core ethereum stuff._
+* create a team in ETH Denver devfolio - **done** the dashboard is [https://devfolio.co/ethdenver2021/dashboard](https://devfolio.co/ethdenver2021/dashboard)
 * initialise a github common repository - **done**
 * initialise a TODO - **done**
 * fill the TODO
 * allocate the responsible and the peer backup persons for each task
 * define a target date for each task
+* create a project in ETH Denver devfolio and start filling - *hackathon not opened yet*
+
 
 # Logistics
 * Let's have a 30' progress call each day. Here is the When2meet to coordinate our large time zones and find a slot that suits everybody: [https://www.when2meet.com/?10945948-rY2Up](https://www.when2meet.com/?10945948-rY2Up)
