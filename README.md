@@ -1,7 +1,7 @@
 # ETHDenver2021
 Machu Picchu entry for ETHDenver 2021
 ## Contributing, from members of the Buidlathon team
-* Fork the repository to your own github
+* Fork the repository to your own github, or _make a branch directly from here?_
 * Clone your repo to your local workstation and work from there
 * Push to your repo
 * When your version is ready, submit a pull request for _Machu Picchu_.
