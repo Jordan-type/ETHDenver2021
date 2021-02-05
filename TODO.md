@@ -18,7 +18,7 @@ Update of 2021-02-05
 ## Official Process
 Here is the official Buidlathon guide [https://www.ethdenver.com/buidl](https://www.ethdenver.com/buidl). I noted this sentence "_Every BUIDLer must register for ETHDenver on the [ETHDenver & ColoradoJam 2021 Devfolio Landing Page](https://ethdenver2021.devfolio.co/)_"
 
-I note that I have to take care of this. 
+The team _Machu Picchu_ is created on Devfolio. I have the team code and will send to you on request. 
 
 _Impact Bounties - If your project addresses a specific [UN Sustainability Goal (SDG)](https://sdgs.un.org/goals) your team is eligible for Impact Bounties in addition to being qualified to compete in the Open Track. When submitting for an Impact Bounty, you must specifically call out the SDG you are addressing and how your project lends value to the SDG. Impact Judges are specifically qualified to evaluate projects submitted for Impact bounties.  $3000 will be awarded to the top 5 scoring projects in the Impact category with a total of $15,000 in total bounties being allocated._
 
