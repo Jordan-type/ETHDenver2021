@@ -1,12 +1,38 @@
-# ETH Denver 2021 - update of 2021-02-05
+# ETH Denver 2021
+Update of 2021-02-05
+* confirmed members
+  * Vu Tien Khang ("Vutien"): _Space System Architect, 45 years of experience (yes :-), Luxembourg React, Solidity, Web3, Nodejs + some more_
+  * Duke Silver ("Rajan"): _I am a Sr. Java Developer working in Chicago currently. I can code all Java Stack and all the popular DB's. I started learning Ethereum stack 6 months back and got certified. I can work with Solidity, IPFS, Truffle, Infura and all that core ethereum stuff._
 * initialise a github common repository - **done**
 * initialise a TODO - **done**
 * fill the TODO
 * allocate the responsible and the peer backup persons for each task
 * define a target date for each task
+
 # Logistics
 * Let's have a 30' progress call each day. Here is the When2meet to coordinate our large time zones and find a slot that suits everybody: [https://www.when2meet.com/?10945948-rY2Up](https://www.when2meet.com/?10945948-rY2Up)
 * If you're not familiar with When2Meet, they have a Youtube tutorial in the menu "About" at the top left
+## Official Process
+Here is the official Buidlathon guide [https://www.ethdenver.com/buidl](https://www.ethdenver.com/buidl). I noted this sentence "_Every BUIDLer must register for ETHDenver on the [ETHDenver & ColoradoJam 2021 Devfolio Landing Page](https://ethdenver2021.devfolio.co/)_"
+
+I note that I have to take care of this. 
+
+_Impact Bounties - If your project addresses a specific [UN Sustainability Goal (SDG)](https://sdgs.un.org/goals) your team is eligible for Impact Bounties in addition to being qualified to compete in the Open Track. When submitting for an Impact Bounty, you must specifically call out the SDG you are addressing and how your project lends value to the SDG. Impact Judges are specifically qualified to evaluate projects submitted for Impact bounties.  $3000 will be awarded to the top 5 scoring projects in the Impact category with a total of $15,000 in total bounties being allocated._
+
+Feel free to comment
+
+## Deliverables
+Teams should add details like:
+1.    Project name
+2.    Problem being solved
+3.    Challenges encountered along the way
+4.    Technologies used (important for bounties!!!)
+5.    Links to code, visuals, or presentations **<-- our github**
+6.    Video demo (all teams must submit a 3-5 minute video demo of their project) **<-- start the video latest Thursday 11**
+7.    Pictures (if applicable)
+8.    Applicable tracks - All teams a part of the Open track, but they can also select to enter the Impact, Colorado Jam, or Sponsor bounties
+
+
 # What we could do (proposition of storyboard)
 This is a rough roadmap that we can use as basis to adapt and fill the TODO.
 
