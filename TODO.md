@@ -7,9 +7,10 @@ Update of 2021-02-05
 * initialise a github common repository - **done**
 * initialise a TODO - **done**
 * fill the TODO
-* allocate the responsible and the peer backup persons for each task
-* define a target date for each task
-* create a project in ETH Denver devfolio and start filling - *hackathon not opened yet*
+  * migrate to Celo testnet, contracts + the frontend calls to the providers (Action Jordan, target date: Monday)
+  * accept li_li (Action VTK - done)
+  * in parallel start adding IPFS to Pepito (action ?)
+* create a project in ETH Denver devfolio and start filling - **done**
 
 
 # Logistics
@@ -40,13 +41,16 @@ Teams should add details like:
 This is a rough roadmap that we can use as basis to adapt and fill the TODO.
 
 The plan would be to 
-1. **port Pepito to Celo**: Duke Silver is fine with that, He's Celo, IPFS, Solidity, React, java
+1. **port Pepito to Celo**: Rajan is fine with that, He's Celo, IPFS, Solidity, React, java
 2. **have Pepito store on IPFS** its table of Disguise addresses. Any Solidity + IPFS person would do
 3. have **each PepitoDisguise store on Textile or OrbitDB** its data. Here we need someone Solidity + React + IPFS/Textile/orbitDB
 4. ... and/or **use Ceramic** to describe the data model **and IDX** for identity, but this might collide with Celo  
 5. make the **Pepito frontend more sexy** and add a dialog to update the features of a PepitoDisguise and store again. Here someone React+IPFS/Textile/OrbitDB
 6. Add a **mobile frontend using the Valora mobile** API of Celo (cherry over the cake, IMHO in 1 week we'll not have time
 7. another cherry on the cake, **use TheGraph to query the database**, but we'll certainly not have time, unless you have the code ready somewhere
+   
+## List of bounties
+[https://www.ethdenver.com/bounties](https://www.ethdenver.com/bounties)
 
 # The big picture, to be executed after ETH Denver 2021
 1. Beyond the buidlathon, we follow our storyboard and continue adding features to Pepito
