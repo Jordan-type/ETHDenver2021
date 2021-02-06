@@ -27,6 +27,10 @@ A vision of the complete Technical Stack that can be used for _Machu Picchu_ is,
 
 ## Pepito
 Pepito is the demonstrator of how the personal data of the user in need can be stored. To make the blockchain more friendly to decision makers of helper organisations, instead of a boring user KYC data screen, we generate a disguise and store it.
+
+## Beyond Pepito…
+Because of the technical background of Vu Tien Khang as Data Science, Earth Observation, on top of Space and Telecoms, we know that it is possible to add collaborative data analysis tools, Geographical Information System mapping tools, and [Earth Observation tools](https://ibisa.users.earthengine.app/view/mcgyver3) to monitor crops and natural disasters.
+
 ## Objectives for the ETH Denver 2021 Buidlathon (proposed list to be discussed)
 * Port Pepito to Celo
 * Make Pepito store on IPFS its table of Disguise addresses
