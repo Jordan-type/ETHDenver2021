@@ -23,7 +23,7 @@ The ultimate achievement is to make an inclusive DEX where the persons in need m
 
 ## Vision of Technical Stack
 A vision of the complete Technical Stack that can be used for _Machu Picchu_ is, in January 2021 **and if we have 2-3 M$ immediately available** :-)
-![Technical Stack](https://github.com/Machu-Pichu/ETHDenver2021/blob/main/20201029%20Machu%20Picchu%20Tech%20Stack.png)
+![Technical Stack](https://github.com/Machu-Pichu/ETHDenver2021/blob/main/20210206%20Machu%20Picchu%20Tech%20Stack.png)
 
 ## Pepito
 Pepito is the demonstrator of how the personal data of the user in need can be stored. To make the blockchain more friendly to decision makers of helper organisations, instead of a boring user KYC data screen, we generate a disguise and store it.
